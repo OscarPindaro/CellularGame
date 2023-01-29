@@ -1,0 +1,6 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://disuyyrm0oyy4"]
+
+[ext_resource type="Script" path="res://Cell/Stats.gd" id="1_u2ftx"]
+
+[resource]
+script = ExtResource("1_u2ftx")
